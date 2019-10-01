@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "",
+    "database": "Gamesystem2",
+    "host": "34.66.14.80",
+    "dialect": "postgresql",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "",
+    "password": "",
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "postgresql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "",
+    "password": "",
+    "database": "Gamesystem2",
+    "host": "34.66.14.80",
+    "dialect": "postgresql",
+    "operatorsAliases": false
+  }
+}
